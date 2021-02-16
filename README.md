@@ -5,7 +5,7 @@
 
 
 
-  ![logo-gmail-urionlinejudge](https://user-images.githubusercontent.com/61221136/108103685-0accc100-7069-11eb-8765-975c936fca2b.png)
+  ![logo-urionlinejudge](https://user-images.githubusercontent.com/61221136/108103685-0accc100-7069-11eb-8765-975c936fca2b.png)
 
 
 
